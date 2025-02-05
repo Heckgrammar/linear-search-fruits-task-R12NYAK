@@ -34,19 +34,10 @@
         }
         return false;
     }
-}
-
-
-
-            
-
-            
-
-            // Output the message True if the word is found
+}// Output the message True if the word is found
             // Output the message False if the word is not found
             
-            // You must write your own linear search routine and not use any built-in fuctions available in C#
-            // You should use meaningful variable names
+            // You must write your own linear search routine and not use any built-in fuctions avail       // You should use meaningful variable names
         }
     }
 }
